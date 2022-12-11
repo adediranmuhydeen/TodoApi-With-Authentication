@@ -1,0 +1,12 @@
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\bin\Debug\net5.0\TodoWebApp.Share.deps.json
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\bin\Debug\net5.0\TodoWebApp.Share.dll
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\bin\Debug\net5.0\TodoWebApp.Share.pdb
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\TodoWebApp.Share.csproj.AssemblyReference.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\TodoWebApp.Share.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\TodoWebApp.Share.AssemblyInfoInputs.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\TodoWebApp.Share.AssemblyInfo.cs
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\TodoWebApp.Share.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\TodoWebApp.Share.dll
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\refint\TodoWebApp.Share.dll
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\TodoWebApp.Share.pdb
+C:\Users\Decagon\OneDrive\Documents\.Net\TodoWebAppIdentity\TodoWebApp.Share\obj\Debug\net5.0\ref\TodoWebApp.Share.dll
